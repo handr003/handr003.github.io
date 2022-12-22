@@ -1,8 +1,0 @@
-name: "Holly-Andrews-website"
-navbar:
-  title: "Holly Andrews"
-left:
-  - text: "Home"
-href: index.html
-- text: "About"
-href: about.html
